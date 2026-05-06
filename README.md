@@ -1,0 +1,3 @@
+Nuestro proyecto se enfoca en orientar y apoyar a los estudiantes del bachillerato de la ETITC priorizando la salud mental por medio de actividades donde los estudiantes pueden tener acceso a la información, ayuda y mejora de sus emociones, evitando momentos de crisis.
+Nuestro proyecto, va dirigido a prevenir momentos extremos que involucran la salud mental y sea una salida rápida y ayuda inmediata para quién lo necesite.{
+Si se necesita ayuda profesional, se encuentran las rutas de atención necesarias y enfocadas principalmente al manejo de emociones y salud mental del estudiante, ya sea dentro de la escuela o por fuera de ella.
